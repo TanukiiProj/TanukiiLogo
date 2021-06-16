@@ -8,3 +8,6 @@ The Tanukii logo is open source. You may contribute.
  - Export a PNG
  - Submit both the XCF *and* PNG to this repo in a pull request
  - Done!
+
+## License
+The Tanukii logo is licensed under GPL v3. See `LICENSE` for more info.
